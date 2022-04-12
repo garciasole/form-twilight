@@ -1,0 +1,60 @@
+body{
+    background-image:url(https://wallpapercave.com/wp/wp10604860.jpg); 
+    background-size: cover;
+    font-family:tahoma;
+    color:white;
+  }
+  figure{
+    display:block;
+    float:center;
+    width:50%;
+    margin:30px auto;
+    background-color:black;
+    border-radius:25px;
+    opacity:85%;
+    padding:1px;
+  }
+  h1{
+    font-family:fantasy;
+    font-weight:lighter;
+    color:#f2a600;
+    text-align:center;
+  }
+  #description{
+    text-align:center;
+    font-style:italic;
+    font-size:90%;
+  }
+  #survey-form{
+    padding:5% 5% 5% 10%;
+  }
+  #name-label{
+    display:block;
+  }
+  #number-label,#email-label{
+    display:block;
+    padding-top:2%;
+  }
+  #dropdown{
+    width:30%;
+    padding:1%;
+  }
+  .input-textarea{
+    font-family:tahoma;
+    margin-bottom:5%;
+    width:90%;
+  }
+  .submit-button{
+    width:150px;
+  
+    margin:0 auto;  
+  }
+  
+  button {
+    height:50px;
+    width:150px;
+    border-radius:50px;
+    background-color:#f2a600;
+    font-size:20px;
+  }
+  
